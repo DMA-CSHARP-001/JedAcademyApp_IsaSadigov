@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\JedAcademy\JedAcademyApp\JedAcademyApp\obj\Debug\JedAcademyApp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\JedAcademy\JedAcademyApp\JedAcademyApp\obj\Debug\JedAcademyApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\JedAcademy\JedAcademyApp\JedAcademyApp\obj\Debug\JedAcademyApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\JedAcademy\JedAcademyApp\JedAcademyApp\bin\Debug\JedAcademyApp.exe.config
+C:\Users\HP\Desktop\JedAcademy\JedAcademyApp\JedAcademyApp\bin\Debug\JedAcademyApp.exe
+C:\Users\HP\Desktop\JedAcademy\JedAcademyApp\JedAcademyApp\bin\Debug\JedAcademyApp.pdb
+C:\Users\HP\Desktop\JedAcademy\JedAcademyApp\JedAcademyApp\obj\Debug\JedAcademyApp.exe
+C:\Users\HP\Desktop\JedAcademy\JedAcademyApp\JedAcademyApp\obj\Debug\JedAcademyApp.pdb

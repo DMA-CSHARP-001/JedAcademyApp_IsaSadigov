@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JedAcademyApp", "JedAcademyApp\JedAcademyApp.csproj", "{28FCA77B-7AFD-476F-936D-2D92B8749CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28FCA77B-7AFD-476F-936D-2D92B8749CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28FCA77B-7AFD-476F-936D-2D92B8749CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28FCA77B-7AFD-476F-936D-2D92B8749CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28FCA77B-7AFD-476F-936D-2D92B8749CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E35F54E9-C066-432F-8704-EAA7D5CE6E7A}
+	EndGlobalSection
+EndGlobal
